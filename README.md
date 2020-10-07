@@ -15,6 +15,7 @@
 <p><strong>GITHUB BADGES</strong></p>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='35' height='35'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yajindra-Gautam&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yajindra-Gautam&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yajindra-Gautam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
