@@ -6,9 +6,9 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Java/PHP/HTML/CSS/JavaScript
 - 📫 How to reach me: <br>
-     <p>YouTube<a href="https://www.facebook.com/Yajindra-Gautam-363088744518991/">@Yajindra-Gautam</a></p>
-     <p>Lindedin<a href="https://www.linkedin.com/in/yajindra-gtm/">@Yajindra-Gtm</a></p>
-     <p>Instagram<a href="https://www.facebook.com/Yajindra-Gautam-363088744518991/">@Yajindra-Gautam</a></p>
+     <p>YouTube: <a href="https://www.facebook.com/Yajindra-Gautam-363088744518991/">@Yajindra-Gautam</a></p>
+     <p>Lindedin: <a href="https://www.linkedin.com/in/yajindra-gtm/">@Yajindra-Gtm</a></p>
+     <p>Instagram: <a href="https://www.facebook.com/Yajindra-Gautam-363088744518991/">@Yajindra-Gautam</a></p>
 - 😄 Pronouns: Yaji or Yajindra
 - ⚡ Fun fact: I love Coffee☕ and Programming
 
