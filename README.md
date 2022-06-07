@@ -11,10 +11,10 @@
 
 - 🤝 I’m looking for help with **Express Developers.**
 
-- 💬 Ask me about **react,php,js,java,node,react**
+- 💬 Ask me about **php,js,java,node,typescript**
 
 - 📫 How to reach me: 
-     YouTube: <a href="https://www.facebook.com/Yajindra-Gautam-363088744518991/">@Yajindra-Gautam</a>
+     Instagram: <a href="instagram.com/codewithyaji/">@codewithyaji</a>
      Linkedin: <a href="https://www.linkedin.com/in/yajindra-gtm/">@Yajindra-Gtm</a>
      
 - 😄 Pronouns: Yaji or Yajindra
