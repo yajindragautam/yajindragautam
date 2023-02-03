@@ -5,16 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yajindragautam&theme=onedark" alt="yajindragautam" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Nest JS**
 
 - 👯 I’m looking to collaborate on **YouTube and Instagram**
 
 - 🤝 I’m looking for help with **Express Developers.**
 
-- 💬 Ask me about **php,js,java,node,typescript**
+- 💬 Ask me about **php,js,java,node,typescript,node js,express.js,mongoose,sequelize**
 
 - 📫 How to reach me: 
-     Instagram: <a href="instagram.com/codewithyaji/">@codewithyaji</a>
+     Instagram: <a href="https://www.instagram.com/codewithyaji/">@codewithyaji</a>
      Linkedin: <a href="https://www.linkedin.com/in/yajindra-gtm/">@Yajindra-Gtm</a>
      
 - 😄 Pronouns: Yaji or Yajindra
